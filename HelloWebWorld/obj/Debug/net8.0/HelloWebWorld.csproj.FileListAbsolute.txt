@@ -28,3 +28,4 @@
 /Users/etrevino/code/dotnet/HelloWebWorld/obj/Debug/net8.0/HelloWebWorld.pdb
 /Users/etrevino/code/dotnet/HelloWebWorld/obj/Debug/net8.0/HelloWebWorld.genruntimeconfig.cache
 /Users/etrevino/code/dotnet/HelloWebWorld/obj/Debug/net8.0/ref/HelloWebWorld.dll
+/Users/etrevino/code/dotnet/HelloWebWorld/obj/Debug/net8.0/HelloWebWorld.sourcelink.json
